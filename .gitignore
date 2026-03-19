@@ -3,7 +3,7 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
-# dotenv file
+# dotenv files
 .env
 
 # User-specific files
